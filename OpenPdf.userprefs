@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DEB00D62-B881-4F7A-AB8C-5EE4FE4AADDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/CustomWebView_droid.cs">
+    <Files>
+      <File FileName="OpenPdf/CustomWebView.cs" Line="6" Column="38" />
+      <File FileName="Droid/CustomWebView_droid.cs" Line="31" Column="1" />
+      <File FileName="OpenPdf/FodyWeavers.xml" Line="3" Column="21" />
+      <File FileName="OpenPdf/OpenPdfPage.xaml" Line="7" Column="19" />
+      <File FileName="OpenPdf/OpenPdfPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="OpenPdf/App.xaml.cs" Line="11" Column="62" />
+      <File FileName="OpenPdf/WebViewPage.xaml" Line="9" Column="24" />
+      <File FileName="OpenPdf/WebViewPage.xaml.cs" Line="14" Column="1" />
+      <File FileName="OpenPdf/WebViewPageViewModel.cs" Line="15" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OpenPdf.Droid PreferredExecutionTarget="Android.17004522513162" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OpenPdf.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.OpenPdf.iOS>
+</Properties>

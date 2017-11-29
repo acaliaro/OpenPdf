@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:OpenPdf" x:Class="OpenPdf.OpenPdfPage">
+    <StackLayout>
+        <Label Text="Welcome to OpenPdf (for Android... )" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Button Text="Open JPG" Clicked="OpenJpg"/>
+        <Button Text="Open PDF" Clicked="OpenPdf"/>
+    </StackLayout>
+</ContentPage>

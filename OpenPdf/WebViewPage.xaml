@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+         xmlns:local="clr-namespace:OpenPdf;assembly=OpenPdf"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="OpenPdf.WebViewPage">
+	<ContentPage.Content>
+        <StackLayout>
+            <local:CustomWebView Uri="{Binding Uri}" IsPdf="{Binding IsPdf}"  HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>
